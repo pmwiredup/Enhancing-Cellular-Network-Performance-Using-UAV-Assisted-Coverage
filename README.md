@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the MATLAB simulation code, documentation, and project report for **"Enhancing Cellular Network Performance Using UAV-Assisted Coverage"**—a research project conducted at IIT Kanpur. The work explores advanced techniques to improve cellular network coverage and reliability by leveraging drone-mounted unmanned aerial vehicles (UAVs) as aerial base stations in a 19-cell hexagonal network. The project features dynamic user clustering, UAV optimization, antenna diversity, and a comprehensive performance evaluation framework.
+This repository contains the MATLAB simulation code, documentation, and project report for **"Enhancing Cellular Network Performance Using UAV-Assisted Coverage"**—a research project conducted as a part of my Research Internship at IIT Kanpur. The work explores advanced techniques to improve cellular network coverage and reliability by leveraging drone-mounted unmanned aerial vehicles (UAVs) as aerial base stations in a 19-cell hexagonal network. The project features dynamic user clustering, UAV optimization, antenna diversity, and a comprehensive performance evaluation framework.
 
 ---
 
